@@ -1,0 +1,21 @@
+{
+  "name": "container",
+  "homepage": "https://github.com/lulski/python_study_kocu",
+  "authors": [
+    "lulski <milunes@gmail.com>"
+  ],
+  "description": "bower test",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
